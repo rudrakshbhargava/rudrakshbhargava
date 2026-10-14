@@ -1,5 +1,11 @@
 # 💫 About Me:
-# Hey, I'm Rudraksh Bhargava 👋<br><br>💻 **Computer Science Student | Aspiring Software Developer**<br><br>I'm a developer in the making, passionate about building things, solving problems, and understanding how technology works under the hood.<br><br>Currently exploring **Java, Python, Web Development, and Data Structures & Algorithms**, while building my fundamentals one project at a time.<br><br>### About Me<br><br>- 🎓 Computer Science student at LNCT, Bhopal<br>- 💻 Learning Java, Python, HTML, CSS, and Data Structures & Algorithms<br>- 🔐 Interested in cybersecurity, Linux, and software development<br>- 🎬 Also passionate about video editing, filmmaking, and content creation<br>- 🌱 Focused on learning by building, experimenting, and improving every day<br><br>### Tech Stack<br><br>- **Languages:** Java, Python<br>- **Web:** HTML, CSS<br>- **Tools:** Git, GitHub, VS Code, Linux<br>- **Currently Learning:** DSA, Object-Oriented Programming, and backend development<br><br>### What You'll Find Here<br><br>- 🚀 Projects built while learning<br>- 🧩 Coding practice and problem-solving<br>- 🌐 Web development experiments<br>- 💡 Ideas turned into code<br><br>### My Philosophy<br><br>> Learn consistently. Build things that matter. Get better every day.<br><br>I'm still learning, still experimenting, and just getting started.<br><br>**Let's build something cool.** 🤝
+I'm currently working with Java and Python, learning the fundamentals of data structures and algorithms, and exploring web development. I enjoy understanding how things work beneath the surface, experimenting with new ideas, and turning what I learn into practical projects.
+
+Outside of programming, I'm interested in filmmaking, video editing, and content creation — different ways of approaching the same thing: making something worth sharing.
+
+This GitHub is a record of what I'm learning, what I'm building, and how I improve along the way.
+
+Still learning. Still building
 
 
 ## 🌐 Socials:
